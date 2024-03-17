@@ -1,25 +1,10 @@
-# Fichiers temporaires
+# Fichiers
 .Rproj.user/
 .RData
 .Ruserdata
-
-# Fichiers générés par la construction ou l'exécution du code
-.Rcheck/
-.Renviron
-.Rprofile
-
-# Fichiers de sauvegarde temporaires
-*.bak
-*.swp
-*~
-
-# Fichiers de sortie
-*.log
-*.out
-
-# Fichiers générés par des éditeurs de texte
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
 .DS_Store
-Thumbs.db
-
-# Fichier de l'historique des commandes R
 .rhistory
