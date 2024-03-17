@@ -20,6 +20,3 @@
 # Fichiers générés par des éditeurs de texte
 .DS_Store
 Thumbs.db
-
-# Fichier de l'historique des commandes R
-.rhistory
