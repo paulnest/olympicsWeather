@@ -1,8 +1,7 @@
 Package: olympicsWeather
 Title: Weather Forecast Data for Olympic Events"
 Version: 0.0.0.9000
-Authors@R: 
-    person("Paul", "Nestour", email = "paul.nestour@gmail.com")
+AAuthors@R: person("Paul", "Nestour", email = "paulnestour7@gmail.com", role = c("aut", "cre"))
 Description: olympicsWeather is a package designed to provide access to weather forecast data for Olympic events locations. It leverages various APIs and geocoding services to retrieve weather information based on coordinates or addresses. The package includes functions to retrieve weather forecasts, convert addresses to GPS coordinates, and flatten response data into tibbles for easy analysis. It also supports customization of API requests and provides flexibility in querying weather data for different locations. olympicsWeather aims to simplify the process of accessing and analyzing weather information for Olympic events organizers, athletes, and enthusiasts.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a license
 Encoding: UTF-8
