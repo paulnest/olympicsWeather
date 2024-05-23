@@ -1,0 +1,20 @@
+Package: olympicsWeather
+Type: Package
+Title: Olympic Weather Forecast
+Version: 0.1.0
+Date: 2024-05-24
+Author: Paul Nestour
+Maintainer: Paul Nestour <paul.nestour7@gmail.com>
+Description: This package provides real-time weather forecasts for a location for each hour of the next 7 days. The information obtained includes: "temperature in Celsius", "feels-like temperature in Celsius", "probability of precipitation", and "precipitation".
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports:
+    jsonlite,
+    dplyr,
+    httr2,
+    opencage,
+    tibble,
+    tidygeocoder,
+    tidyverse
+RoxygenNote: 7.3.1
